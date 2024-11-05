@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Sep 27 21:59:05 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0183-7fc7-d1dc-0000019a2e38 
+on database directory memory:/Users/aniket-14345/Documents/Learning/springcrud/9c003594-1019-4761-a295-702e9a788643 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1de0aca6 
+Loaded from file:/Users/aniket-14345/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Homebrew
+java.runtime.version=18.0.2.1+1
+user.dir=/Users/aniket-14345/Documents/Learning/springcrud
+os.name=Mac OS X
+os.arch=aarch64
+os.version=12.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
